@@ -1,13 +1,13 @@
 How to run the program:
+	
 	1) install pyperclip
 		pip3 install pyperclip
 	2) Write the whole text you want to send, in a file named "file.txt",
 		be sure to put it in the same directory.
-	
 	3) python main.py
 	
-	press ENTER and the tweets will be copied to your clipboard.
-	Do it until the program ends.
+press ENTER and the tweets will be copied to your clipboard.
+Do it until the program ends.
 
 	
 	ISSUES:
