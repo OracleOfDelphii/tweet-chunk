@@ -14,8 +14,10 @@ How to run the program:
 	
 ISSUES:
 	
+	
 If you encountered with unicodedecodeerror, it might be because of the enviornment you
 are running the program with.
+	
 	
 For example the program ran successfuly in Bash(Windows), but failed in POWERSHELL.
 I might try to make the code more portable later. Have a good day :)
